@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+:root{
+    --fonte1: cordel;
+    --fonte2: cordelina;
+}
 @font-face {
     font-family: cordelina;
     src: url(../pacote-d012/fontes/cordelina/cordelina.otf) format("truetype");

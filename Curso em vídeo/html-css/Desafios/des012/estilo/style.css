@@ -1,8 +1,5 @@
 @charset "UTF-8";
-:root{
-    --fonte1: cordel;
-    --fonte2: cordelina;
-}
+
 *{
     margin: 0px;
     padding: 0px;
